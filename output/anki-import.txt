@@ -1,0 +1,123 @@
+Show Command Palette	⇧⌘P, F1	General
+Quick Open	⌘P	General
+New window/instance	⇧⌘N	General
+Close window/instance	⌘W	General
+User Settings	⌘,	General
+Keyboard Shortcuts	⌘K ⌘S	General
+Cut line (empty selection)	⌘X	Basic-editing
+Copy line (empty selection)	⌘C	Basic-editing
+Move line down/up	⌥↓ / ⌥↑	Basic-editing
+Copy line down/up	⇧⌥↓ / ⇧⌥↑	Basic-editing
+Delete line	⇧⌘K	Basic-editing
+Insert line below/above	⌘Enter / ⇧⌘Enter	Basic-editing
+Jump to matching bracket	⇧⌘\	Basic-editing
+Indent/outdent line	⌘] / ⌘[	Basic-editing
+Go to beginning/end of line	Home / End	Basic-editing
+Go to beginning/end of file	⌘↑ / ⌘↓	Basic-editing
+Scroll line up	⌃PgUp	Basic-editing
+Scroll line down	⌃PgDown	Basic-editing
+Scroll page up/down	⌘PgUp /⌘PgDown	Basic-editing
+Fold/unfold region	⌥⌘[ / ⌥⌘]	Basic-editing
+Fold/unfold all subregions	⌘K ⌘[ / ⌘K ⌘]	Basic-editing
+Fold/unfold all regions	⌘K ⌘0 / ⌘K ⌘J	Basic-editing
+Add line comment	⌘K ⌘C	Basic-editing
+Remove line comment	⌘K ⌘U	Basic-editing
+Toggle line comment	⌘/	Basic-editing
+Toggle block comment	⇧⌥A	Basic-editing
+Toggle word wrap	⌥Z	Basic-editing
+Insert cursor	⌥ + Click	Multi-cursor-and-selection
+Insert cursor above	⌥⌘↑	Multi-cursor-and-selection
+Insert cursor below	⌥⌘↓	Multi-cursor-and-selection
+Undo last cursor operation	⌘U	Multi-cursor-and-selection
+Insert cursor at end of each line selected	⇧⌥I	Multi-cursor-and-selection
+Select current line	⌘I	Multi-cursor-and-selection
+Select all occurrences of current selection	⇧⌘L	Multi-cursor-and-selection
+Select all occurrences of current word	⌘F2	Multi-cursor-and-selection
+Expand selection	⌃⇧⌘→	Multi-cursor-and-selection
+Shrink selection	⌃⇧⌘←	Multi-cursor-and-selection
+Column (box) selection	⇧⌥ + drag mouse	Multi-cursor-and-selection
+Column (box) selection up	⇧⌥⌘↑	Multi-cursor-and-selection
+Column (box) selection down	⇧⌥⌘↓	Multi-cursor-and-selection
+Column (box) selection left	⇧⌥⌘←	Multi-cursor-and-selection
+Column (box) selection right	⇧⌥⌘→	Multi-cursor-and-selection
+Column (box) selection page up	⇧⌥⌘PgUp	Multi-cursor-and-selection
+Column (box) selection page down	⇧⌥⌘PgDown	Multi-cursor-and-selection
+Find	⌘F	Search-and-replace
+Replace	⌥⌘F	Search-and-replace
+Find next/previous	⌘G / ⇧⌘G	Search-and-replace
+Select all occurrences of Find match	⌥Enter	Search-and-replace
+Add selection to next Find match	⌘D	Search-and-replace
+Move last selection to next Find match	⌘K ⌘D	Search-and-replace
+Trigger suggestion	⌃Space	Rich-languages-editing
+Trigger parameter hints	⇧⌘Space	Rich-languages-editing
+Format document	⇧⌥F	Rich-languages-editing
+Format selection	⌘K ⌘F	Rich-languages-editing
+Go to Definition	F12	Rich-languages-editing
+Peek Definition	⌥F12	Rich-languages-editing
+Open Definition to the side	⌘K F12	Rich-languages-editing
+Quick Fix	⌘.	Rich-languages-editing
+Show References	⇧F12	Rich-languages-editing
+Rename Symbol	F2	Rich-languages-editing
+Trim trailing whitespace	⌘K ⌘X	Rich-languages-editing
+Change file language	⌘K M	Rich-languages-editing
+Show all Symbols	⌘T	Navigation
+Go to Line...	⌃G	Navigation
+Go to File...	⌘P	Navigation
+Go to Symbol...	⇧⌘O	Navigation
+Show Problems panel	⇧⌘M	Navigation
+Go to next/previous error or warning	F8 / ⇧F8	Navigation
+Navigate editor group history	⌃⇧Tab	Navigation
+Go back/forward	⌃- / ⌃⇧-	Navigation
+Toggle Tab moves focus	⌃⇧M	Navigation
+Close editor	⌘W	Editor-management
+Close folder	⌘K F	Editor-management
+Split editor	⌘\	Editor-management
+Focus into 1st, 2nd, 3rd editor group	⌘1 / ⌘2 / ⌘3	Editor-management
+Focus into previous/next editor group	⌘K ⌘← / ⌘K ⌘→	Editor-management
+Move editor left/right	⌘K ⇧⌘← / ⌘K ⇧⌘→	Editor-management
+Move active editor group	⌘K ← / ⌘K →	Editor-management
+New File	⌘N	File-management
+Open File...	⌘O	File-management
+Save	⌘S	File-management
+Save As...	⇧⌘S	File-management
+Save All	⌥⌘S	File-management
+Close	⌘W	File-management
+Close All	⌘K ⌘W	File-management
+Reopen closed editor	⇧⌘T	File-management
+Keep preview mode editor Open	⌘K Enter	File-management
+Open next / previous	⌃Tab / ⌃⇧Tab	File-management
+Copy path of active file	⌘K P	File-management
+Reveal active file in Explorer	⌘K R	File-management
+Show active file in new window/instance	⌘K O	File-management
+Toggle full screen	⌃⌘F	Display
+Toggle editor layout	⌥⌘0	Display
+Zoom in/out	⌘= / ⇧⌘-	Display
+Toggle Sidebar visibility	⌘B	Display
+Show Explorer / Toggle focus	⇧⌘E	Display
+Show Search	⇧⌘F	Display
+Show Git	⌃⇧G	Display
+Show Debug	⇧⌘D	Display
+Show Extensions	⇧⌘X	Display
+Replace in files	⇧⌘H	Display
+Toggle Search details	⇧⌘J	Display
+Open new command prompt/terminal	⇧⌘C	Display
+Show Output panel	⇧⌘U	Display
+Toggle Markdown preview	⇧⌘V	Display
+Open Markdown preview to the side	⌘K V	Display
+Toggle Zen Mode	⌘K Z	Display
+Toggle breakpoint	F9	Debug
+Start/Continue	F5	Debug
+Step into/ out	F11 / ⇧F11	Debug
+Step over	F10	Debug
+Stop	⇧F5	Debug
+Show hover	⌘K ⌘I	Debug
+Show integrated terminal	⌃`	Integrated-terminal
+Create new terminal	⌃⇧`	Integrated-terminal
+Copy selection	⌘C	Integrated-terminal
+Paste selection	⌘V	Integrated-terminal
+Scroll up	⌘↑	Integrated-terminal
+Scroll down	⌘↓	Integrated-terminal
+Scroll page up	PgUp	Integrated-terminal
+Scroll page down	PgDown	Integrated-terminal
+Scroll to top	⌘Home	Integrated-terminal
+Scroll to bottom	⌘End	Integrated-terminal
